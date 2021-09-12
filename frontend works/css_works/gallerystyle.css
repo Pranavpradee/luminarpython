@@ -1,0 +1,43 @@
+div{
+    width:30%;
+    height:400px;
+    border: 1px solid red;
+    float :left;
+}
+img{
+    width: 100%;
+    hight:50%;
+}
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    color: crimson;
+}
+.section1{
+    border-color: blue;
+}
+/* psuedo element */
+/* .section1 h2:nth-child(1){
+    color: chartreuse;
+
+} */
+
+.section1 h2{
+    color: darkgoldenrod;
+    text-decoration: underline;
+    text-align: center;
+}
+.section2{
+    border-color: yellow;
+}
+.section2 h2{
+    color: teal;
+    text-decoration: underline;
+    text-align: center;
+}
+.section3 h2{
+    color: violet;
+    text-decoration: underline;
+    text-align: center;
+
+}

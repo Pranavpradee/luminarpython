@@ -1,0 +1,21 @@
+div{
+    height: 112px;
+    width: 50%;
+    
+    background-color:lightblue; 
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+    padding: 100px;
+
+}
+
+div{
+    margin-left: 100px;
+}
+.foot{
+    margin-top: 255px;
+}
+.head{
+    padding-top: 100px;
+}

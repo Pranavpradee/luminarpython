@@ -1,0 +1,16 @@
+/* tag name or id or class name{ 
+ property:value;
+property:value;
+} */
+h1{
+    color:#cd5e18;
+}
+.h2{
+    color:lawngreen
+}
+#htwo{
+    color:indianred
+}
+#second{
+    color:indigo
+}
