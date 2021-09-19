@@ -1,0 +1,46 @@
+.row{
+    width:70%;
+    height:400px;
+    background-color:darkcyan;
+    
+
+}
+.col{
+    width:30%;
+    height:200px;
+    background-color:darkgray;
+
+
+}
+/* @media(max-width:500px){
+    .col{
+
+    
+    background-color:darkorange;
+    }
+    .col h3{
+        color:darkred;
+        font-weight: bolder;
+        font-size: 10px;
+    } */
+/* } */
+@media(max-width:500px){
+    .col{
+
+    
+        background-color:deeppink;
+        }
+        row{
+            background-color: gold;
+        }
+}
+@media(min-width:500) and (max-width:800){
+    .col{
+
+    
+        background-color:brown; 
+        }
+        row{
+            background-color: rgb(9, 71, 185);
+        }
+}

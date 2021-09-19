@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
-
+ @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+ 
 body{
     background-color: black;
     text-align: centre;
-}
+} 
 h1{
     color: white;
     text-align: center;
@@ -14,7 +14,7 @@ h1{
     height: 200px;
     
 } */
-.section1{
+/* .box1{
     width: 11%;
     height: 230px;
     background-color: grey;
@@ -23,17 +23,55 @@ h1{
     padding: 5px
     
 }
-.section1{
+
+
+
+
+.box1{
     margin-left:373px;
     margin-bottom
 }
-.section2{
+.box2{
     width: 11%;
     height: 230px;
     background-color: #295c47;
     padding:5px;
 }
-.section2{
+.box2{
     margin-left:566px;
     margin-bottom:120px;
+} */ 
+
+
+
+div{
+    width: 10%;
+    height: 200px;
+    float: left;
+    /* border: 1px solid black; */
+
+} 
+.box1{
+    margin-left: 370px;
+    background-color:#595959;
+    
+}
+.box2{
+    margin-left: 6px;
+    background-color: #52664b;
+
+}
+.box3{
+    margin-left: 6px;
+    background-color: #41874b;
+
+}
+.box4{
+    margin-left:6px;
+    background-color: #41cc56;
+
+}
+.box5{
+    margin-left: 6px;
+    background-color: white;
 }

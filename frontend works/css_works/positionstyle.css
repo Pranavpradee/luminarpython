@@ -1,0 +1,52 @@
+.row{
+    width: 60%;
+    height: 300px;
+    background-color:aqua;
+    position: relative;
+    left:20%;
+    margin-top:10px;
+
+
+}
+.col{
+    width: 22%;
+    height: 250px;
+    position: absolute;
+    top:30px;
+    
+    
+}
+.col-1
+{
+background-color: blue;
+}
+.col-2{
+    background-color: crimson;
+    left:23%
+}
+.col-3{
+    background-color:darkgoldenrod;
+    left:46%;
+}
+.col-4{
+    background-color:darkmagenta;
+    left: 69%;
+}
+.fixed{
+    width: 100px;
+    height: 100px;
+    background-color:darkred;
+    position:fixed;
+    /* fix chytha positionil thanne nilkm */
+    left:80%;
+    top:50%;
+
+}
+.sticky{
+    width: 100px;
+    height: 100px;
+    background-color:dimgray;
+    position: sticky;
+    top: 5%;
+    /* 5%vare move avm ath kazhinja fix ayi nikkm */
+}
